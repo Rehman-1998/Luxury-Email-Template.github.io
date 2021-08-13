@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/********** Main CSS *************/
+.maincontainer{
+    margin-right: 300px;
+    margin-left:300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px;
+      box-shadow:  0px 0px 4px 0px  grey;
+}
+.logo-img{
+    width: 70%;
+    height: auto;
+
+}
+.contact-info p{
+
+    margin-bottom:5px;
+    font-size: 14px;
+    font-weight: 600;
+    word-break: break-word;
+}
+#phone{
+    margin-bottom: 0px !important;
+}
+.contact-info a{
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: 1px;
+    word-break: break-word;
+  
+}
+
+/********* Paragraph CSS ******************/
+.paragraph{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.paragraph p {
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.paragraph .heading {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+/*********** Footer Css ************/
+.footer p{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    color: gray;
+    margin-bottom: 0px;
+}
+.footer hr{
+    height: 2px;
+}
+
